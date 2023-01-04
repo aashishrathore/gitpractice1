@@ -1,0 +1,20 @@
+k8s
+kubernetes
+used for container managment--k8s
+container creation---docker
+orchastrian tool
+high availibility of pod
+container runs inside the pod in the k8s.
+docker creates/runs--only container
+k8s creates/runs---pod,replication-controller,replica-set,deployment,demon-set
+pod=smallest deployable unit of k8s
+cluster creation
+master node ---it manages everything on worker node
+worker node (1+++) ----every elemet(po,rc,rs) present at here.
+master node-- t2.medium (2core-cpu,4gb ram)
+worker node---t2.micro
+ami ---amazon linux
+pod can be created in the k8s by two methods:-
+(1)by command line
+(2)by yaml file
+k8s is also an open source tool
